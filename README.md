@@ -1,7 +1,5 @@
 # Hi👋, I'm Maureen Muchoki
 
-Profile picture: "c:\Users\Admin\Pictures\My Profile..JPG"
-
 ## About Me
 I am an aspiring web developer focused on building clean and user-friendly web experiences.
 
