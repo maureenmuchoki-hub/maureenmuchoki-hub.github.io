@@ -20,7 +20,7 @@ This semester I want to become **confident** in coding, stay *consistent* in my 
 ### Table
 | Tool   | Purpose      | Link   |
 |---------|-----------|----------|
-| Github   | Version control & hostinr |https://github.com/|
+| Github   | Version control & hosting |https://github.com/|
 |Vs Code     | Code editor  | https://code.visualstudio.com/ |
 
 ### Task List
