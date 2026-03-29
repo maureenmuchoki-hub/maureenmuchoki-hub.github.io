@@ -7,7 +7,7 @@ This semester I want to become **confident** in coding, stay *consistent* in my 
 
 [w3schools](https://pathfinder.w3schools.com/profile)
 
-Things I Want to Learn
+# Things I Want to Learn
 - HTML & CSS
 - Git and GitHub
 - JavaScript
