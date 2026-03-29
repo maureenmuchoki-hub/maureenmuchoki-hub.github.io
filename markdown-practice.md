@@ -17,20 +17,20 @@ This semester I want to become **confident** in coding, stay *consistent* in my 
 2. Commit the changes using `git commit -m "your message"`
 3. Push to GitHub using `git push`
 
-Table
+### Table
 | Tool   | Purpose      | Link   |
 |---------|-----------|----------|
 | Github   | Version control & hostinr |https://github.com/|
 |Vs Code     | Code editor  | https://code.visualstudio.com/ |
 
-Task List
+### Task List
 - [x] Create a GitHub account
 - [x] Create a repository
 - [x] Make my first commit
 - [ ] Learn advanced Git commands
 - [ ] Build a complete personal website
 
-Code Block
+### Code Block
 ```python
 print("Hello, GitHub!")
 ```
